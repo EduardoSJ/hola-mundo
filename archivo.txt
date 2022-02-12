@@ -1,0 +1,1 @@
+Este es un archivo de texto creado segun el video tutorial 1 de git.
